@@ -1,0 +1,24 @@
+TESTE TOUR VIRTUAL
+
+Coloque 3 imagens 360° na pasta img com estes nomes:
+
+01.jpg
+02.jpg
+03.jpg
+
+Estrutura:
+
+teste_tour_virtual/
+├── index.html
+├── css/
+│   └── style.css
+├── js/
+│   └── script.js
+└── img/
+    ├── 01.jpg
+    ├── 02.jpg
+    └── 03.jpg
+
+As imagens devem ser panorâmicas equiretangulares, preferencialmente em proporção 2:1.
+
+Abra o index.html usando seu servidor local.
